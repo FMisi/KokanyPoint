@@ -1,0 +1,26 @@
+﻿body
+{
+	background-image:url(Acidtrip.png);
+	/*background-position:justify;*/
+}
+.button
+{
+	background-color:red;
+	color:white;
+	border:none;
+	padding: 15px 32px;
+	font-size:22px;
+	cursor: pointer;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.14), 0 17px 30px 0 rgba(0,0,0,0.19);
+	transition-duration: 0.15s;
+}
+.btn1
+{
+	background-color:red;
+	color:white;
+}
+.btn1:hover
+{
+	background-color:blue;
+	color:black;
+}
